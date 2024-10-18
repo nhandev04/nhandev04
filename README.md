@@ -6,4 +6,4 @@
 - 🤔 I’m looking for freelance job
 - 💬 Ask me about everthing
 - 📫 How to reach me: linkedin
-- ⚡ Fun fact: I have 2 fun fact
+- ⚡ Fun fact: I have 2 fun facts
