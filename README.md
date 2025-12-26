@@ -16,12 +16,9 @@
 ![CSS Variables](https://img.shields.io/badge/-CSS%20Variables-F7DF1E?logo=css3&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nhandev04&show_icons=true&theme=tokyonight)
-
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/nhandev/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/nguyentrongnhan04/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat)](https://trongnhan.id.vn/)
+[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat)](https://thinkinh-com.vercel.app/)
 
 🚀 _Let's build something amazing together!_
